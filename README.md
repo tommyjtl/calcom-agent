@@ -6,6 +6,8 @@ An intelligent AI agent that integrates with Cal.com to manage your calendar and
 
 ## Demo
 
+![](./Screenshot%202026-01-29%20at%2019.08.03.png)
+
 Check out the [demo video](./demo.mov) to see the agent in action!
 
 ## Overview
